@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 from playwright.async_api import async_playwright
 
-BOT_TOKEN = "8763008810:AAG8WSzizDGNved0urlhduxK5UySSTUz7Y0"
+BOT_TOKEN = "8820510463:AAGtKRBFTbkeNQCErarqxV7heIR0VPv5-6U"
 
 WEBSITE_1 = "https://eat-token.killersharmabot.online/"
 WEBSITE_2 = "https://version-common-redflamenco.vercel.app/"
